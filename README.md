@@ -1,4 +1,4 @@
-- 👋 Hi, I Keith Martin-Smith
+- 👋 Hi, I sims
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 
 
 <!---
-Mr Smith a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sims a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
