@@ -1,10 +1,10 @@
-- 👋 Hi, I Tim Berner-Lee
+- 👋 Hi, I John D Smith
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <!---
- Tim Berner-Lee✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ John D Smith✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-DG
+
